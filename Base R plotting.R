@@ -125,3 +125,6 @@ hist(x)
 plot(x)
 
 #matrix plot in R , #3D plot in R
+
+edit version 
+plot(mtcars)
